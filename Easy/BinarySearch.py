@@ -1,4 +1,4 @@
-# Solu
+# Sol
 def binarySearch(array, target):
 	return helper(array, target, 0, len(array) - 1)
 
