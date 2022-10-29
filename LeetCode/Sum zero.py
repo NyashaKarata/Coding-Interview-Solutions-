@@ -1,4 +1,4 @@
-ca Solution:
+c Solution:
     def sumZero(self, n: int) -> List[int]:
         currentN = n // 2
         res = []
